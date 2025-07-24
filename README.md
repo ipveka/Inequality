@@ -1,0 +1,2 @@
+# Inequality
+Inequality visualization project
