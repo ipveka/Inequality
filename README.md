@@ -1,0 +1,2 @@
+# Inequality
+Visualize inequality data
