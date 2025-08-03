@@ -105,6 +105,7 @@ gini-inequality-visualizer/
 │   └── test_visualization.py # Visualization component tests
 ├── requirements.txt       # Python dependencies
 ├── README.md             # This documentation
+└── .gitignore            # Git ignore file
 ```
 
 ### Utils Package
